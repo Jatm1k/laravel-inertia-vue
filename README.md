@@ -1,7 +1,7 @@
-#CRUD(Laravel+Inertia.js+Vue)
+# CRUD(Laravel+Inertia.js+Vue)
 
-###Используемые технологии:
-*Laravel
-*Inertia.js
-*Vue
-*Tailwind
+### Используемые технологии:
+* Laravel
+* Inertia.js
+* Vue
+* Tailwind
